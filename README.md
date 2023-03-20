@@ -1,7 +1,7 @@
 <div id="header">
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona+Sans&size=25&duration=1000&pause=1000&color=FFFFFF&multiline=true&width=510&height=70&lines=hey+there%2C+I'm+Caner.;Senior+Android+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona+Sans&size=25&duration=1000&pause=1000&color=0f80c1&multiline=true&width=510&height=70&lines=hey+there%2C+I'm+Caner.;Senior+Android+Developer.)](https://git.io/typing-svg)
 
 </br>
   <div id="badges">

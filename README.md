@@ -51,7 +51,7 @@
 
 ### :trophy: My GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=caneryilmaz52&theme=gruvbox&column=6&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=caneryilmaz52&theme=gruvbox&column=6&margin-w=10&margin-h=10&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 

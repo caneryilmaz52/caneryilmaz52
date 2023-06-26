@@ -1,7 +1,7 @@
 <div id="header">
   <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona+Sans&size=25&duration=1000&pause=1000&color=0f80c1&multiline=true&width=510&height=70&lines=hey+there%2C+I'm+Caner.;Senior+Android+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona+Sans&size=25&duration=1000&pause=1000&color=0f80c1&multiline=true&width=510&height=70&lines=hey+there%2C+I'm+Caner;Senior+Android+Developer)](https://git.io/typing-svg)
 
 </br>
   <div id="badges">
@@ -36,7 +36,14 @@
 | <div align='center'>uniKuni</div>                | <a href="https://play.google.com/store/apps/details?id=com.creatif.unikuni">GooglePlay</a>                      | We thought and designed the uniKuni application only for university students.<br/>If you are a university student, download UniKuni to your phone; Start immediately to benefit from attractive and dynamic offers that are constantly renewed from food to entertainment, from fashion to travel, from home needs to technology. <a href="https://www.unikuni.com/">more</a> |
 | <div align='center'>BirinciKart (İnci Akü)</div> | <a href="https://play.google.com/store/apps/details?id=creatif.com.inciaku">GooglePlay</a>                      | Birincikart mobile application is a platform specially prepared for İnci Akü Retail Sales Points. Birincikart mobile application offers many different functions and advantages. You earn points from battery stock entry and battery sales, and you can easily keep track of your stock.<br/>You can access the latest news about İnci Akü while following the campaigns with personalized campaign notifications. <a href="https://www.birincikart.com/">more</a>  |
 | <div align='center'>Motivation Articles</div>    | <a href="https://play.google.com/store/apps/details?id=com.caneryilmaz.pc.proje1">GooglePlay</a>                | Motivation is an important force that affects our behavior; Encourages us to work and makes us move towards a specific goal or purpose. For your dreams, for your life, for your future.<br/>Sometimes in life we may feel weak and unhappy. By motivating yourself, you will feel better, happy and strong. It is a long and difficult process to reach our dreams. In this process we can motivate you and support you.<br/>You may have failed at work, in exams or in daily life. If you are looking for something to motivate you again, this application may be an option for you. |
-     
+
+
+---
+      
+### :man_technologist: My GitHub Gist
+
+For check my gists <a href="https://gist.github.com/caneryilmaz52">click here</a> 
+
 ---
 
 ### :fire: My GitHub Stats
@@ -57,7 +64,7 @@
 
 ### :chart_with_upwards_trend: My Contribution Graph
 
-[![Caner's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=caneryilmaz52&theme=github-compact&area=true&custom_title=Caner's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Caner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caneryilmaz52&theme=github-compact&area=true&custom_title=Caner's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **caneryilmaz52/caneryilmaz52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

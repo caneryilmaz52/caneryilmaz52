@@ -1,11 +1,10 @@
 <div id="header">
-  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona+Sans&size=25&duration=1000&pause=1000&color=0f80c1&multiline=true&width=510&height=70&lines=hey+there%2C+I'm+Caner;Senior+Android+Developer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caneryilmaz52) 
 [![GooglePlayStore](https://img.shields.io/badge/GooglePlay-%230077B5.svg?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=9004369121461433220) 
-[![GIST](https://img.shields.io/badge/GitHub_Gist-%230077B5.svg?logo=github&logoColor=white)](https://gist.github.com/caneryilmaz52) 
+[![GIST](https://img.shields.io/badge/GitHub_Gist-%230077B5.svg?logo=github&logoColor=white)](https://gist.github.com/caneryilmaz52)
 
 ---
 
@@ -31,25 +30,9 @@
 
 ---
 
-### 🔥 My GitHub Stats
-
-[![Caner's GitHub stats](https://github-readme-stats.vercel.app/api?username=caneryilmaz&icon_color=ffffff&hide_title=true&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=caneryilmaz52&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caneryilmaz52&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🏆 My GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=caneryilmaz52&theme=gruvbox&column=6&margin-w=10&margin-h=10&no-bg=false)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📈 My Contribution Graph
 
-[![Caner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caneryilmaz52&theme=github-compact&area=true&custom_title=Caner's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Caner's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caneryilmaz52&theme=github-compact&area=true&area_color=00ff00&custom_title=Caner's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -59,7 +42,7 @@
 ---
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/'/>
 
 <!--
 **caneryilmaz52/caneryilmaz52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
